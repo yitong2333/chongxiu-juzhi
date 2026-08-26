@@ -1,0 +1,32 @@
+{
+  "title": "重修莒志",
+  "description": "莒县地方志",
+  "author": "庄陔兰",
+  "language": "zh-hans",
+  "root": ".",
+  "links": {
+    "sharing": {
+      "all": false,
+      "facebook": false,
+      "google": false,
+      "twitter": false,
+      "weibo": false
+    }
+  },
+  "plugins": [
+    "theme-default",
+    "-highlight",
+    "github-buttons"
+  ],
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "yitong",
+          "repo": "重修莒志",
+          "type": "star"
+        }
+      ]
+    }
+  }
+}
